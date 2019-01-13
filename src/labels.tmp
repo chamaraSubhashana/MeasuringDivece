@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>D:\Assembly\NIE Assembly\my projects\measuringDevice\src</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\measuringDevice.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+  <FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\myheader.asm</FILE>
+  <FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mymac.asm</FILE>
+  <FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mysubs.asm</FILE>
+  <FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mytables.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\measuringDevice.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\measuringDevice.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\measuringDevice.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\measuringDevice.asm</FILE><LINE>87</LINE></RESET>
+  <DONKA><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\measuringDevice.asm</FILE><LINE>28</LINE></DONKA>
+  <TIM0_OVF><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\measuringDevice.asm</FILE><LINE>44</LINE></TIM0_OVF>
+  <DONK><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\measuringDevice.asm</FILE><LINE>36</LINE></DONK>
+  <xisr><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\measuringDevice.asm</FILE><LINE>82</LINE></xisr>
+  <unit><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mysubs.asm</FILE><LINE>77</LINE></unit>
+  <update><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mysubs.asm</FILE><LINE>10</LINE></update>
+  <getkey><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mysubs.asm</FILE><LINE>52</LINE></getkey>
+  <trigger><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\measuringDevice.asm</FILE><LINE>72</LINE></trigger>
+  <delay><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mysubs.asm</FILE><LINE>4</LINE></delay>
+  <MAIN><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\measuringDevice.asm</FILE><LINE>106</LINE></MAIN>
+  <binbcd><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mysubs.asm</FILE><LINE>27</LINE></binbcd>
+  <split><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mysubs.asm</FILE><LINE>39</LINE></split>
+  <pict><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mysubs.asm</FILE><LINE>15</LINE></pict>
+  <p1><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mysubs.asm</FILE><LINE>18</LINE></p1>
+  <p2><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mysubs.asm</FILE><LINE>30</LINE></p2>
+  <splt><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mysubs.asm</FILE><LINE>47</LINE></splt>
+  <check><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mysubs.asm</FILE><LINE>62</LINE></check>
+  <keyup><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mysubs.asm</FILE><LINE>59</LINE></keyup>
+  <keyDow><FILE>D:\Assembly\NIE Assembly\my projects\measuringDevice\src\..\mysubs.asm</FILE><LINE>66</LINE></keyDow>
+ </LABELS>
+</ASSEMBLER_INFO>
